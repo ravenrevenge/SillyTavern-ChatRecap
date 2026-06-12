@@ -10,7 +10,9 @@
     "homePage": "https://github.com/ravenrevenge/SillyTavern-ChatRecap",
     "i18n": {
         "en": "i18n/en.json",
-        "es-es": "i18n/es-es.json"
+        "es-es": "i18n/es-es.json",
+        "zh-tw": "i18n/zh-tw.json",
+        "zh-cn": "i18n/zh-cn.json"
     },
     "hooks": {
         "activate": "init"

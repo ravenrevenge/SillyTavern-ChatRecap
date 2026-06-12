@@ -448,7 +448,7 @@ function initSettings() {
             <div class="inline-drawer">
                 <div class="inline-drawer-toggle inline-drawer-header">
                     <div class="flex-container alignitemscenter margin0">
-                        <b>Chat Recap</b>
+                        <b data-i18n="CR_Settings_Title">Chat Recap</b>
                     </div>
                     <div class="inline-drawer-icon fa-solid fa-circle-chevron-down down"></div>
                 </div>
