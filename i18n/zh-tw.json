@@ -1,5 +1,5 @@
 {
-    "CR_Settings_Title": "聊天回顧（Chat Recap）",
+    "CR_Settings_Title": "聊天回顧",
     "CR_Settings_ConnectionProfile": "連線設定檔",
     "CR_Settings_DefaultConnection": "選擇設定檔⋯",
     "CR_Settings_TimeThreshold": "生成時間門檻（小時）",
@@ -25,6 +25,6 @@
     "CR_Time_YearsAgo": "{0} 年前",
     "CR_Popup_Generating": "正在生成回顧⋯",
     "CR_Popup_GeneratingSub": "視端點狀態而定，生成回顧可能需要一些時間",
-    "CR_Warning_NoProfile": "請先在「聊天回顧（Chat Recap）」設定中選擇連線設定檔，才能生成回顧。",
-    "CR_Warning_NoProfile_Title": "聊天回顧（Chat Recap）"
+    "CR_Warning_NoProfile": "請先在「聊天回顧」擴充設定中選擇連線設定檔，才能生成回顧。",
+    "CR_Warning_NoProfile_Title": "聊天回顧"
 }
