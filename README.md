@@ -17,7 +17,7 @@ https://github.com/ravenrevenge/SillyTavern-ChatRecap/
 ## How to use
 ![Settings screenshot](/img/Settings.png)
 
-- **Connection Profile**: Choose any connection you want to use for the recap, use a cheaper model, a local model, a simpler prompt... whatever you want. I recommend non thinking models with thinking `auto`
+- **Connection Profile**: Choose any connection you want to use for the recap, use a cheaper model, a local model, a simpler prompt... whatever you want. I recommend non-thinking models with reasoning set to `auto`
 - **Time Threshold**: The amount of hours that have to pass before a recap is triggered when you open the chat
 - **Show Time Away Label**: Enable or Disable the text "last seen X time ago" inside the pop-up.
 - **Prompt Template**: Whatever instructions you want to send the AI for the summary to be generated. It comes with a generic short one by default, but I encourage you to make your own and have fun.
@@ -49,4 +49,4 @@ Below some screenshots with other themes and mobile
 
 - First of all THANK YOU to [SillyAnonymous](https://github.com/Sillyanonymous) for letting me nag them, annoy them and be my beta tester too. 
 
-- The idea for the recap comes from Smart Memory by [ShinjinTheDragon](https://github.com/senjinthedragon)
+- The idea for the recap comes from Smart Memory by [SenjinTheDragon](https://github.com/senjinthedragon)
