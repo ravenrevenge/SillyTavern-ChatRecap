@@ -1,0 +1,18 @@
+{
+    "display_name": "Chat Recap",
+    "loading_order": 50,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "RavenRevenge",
+    "version": "1.4.0",
+    "homePage": "https://github.com/ravenrevenge/SillyTavern-ChatRecap",
+    "i18n": {
+        "en": "i18n/en.json",
+        "es-es": "i18n/es-es.json"
+    },
+    "hooks": {
+        "activate": "init"
+    }
+}

@@ -1,0 +1,150 @@
+/* ChatRecap Extension Styles */
+
+/* Popup Content */
+.chat-recap-container {
+    padding: 16px 20px;
+    width: 100%;
+    max-width: 100%;
+    background: var(--SmartThemeBlurTintColor);
+    box-sizing: border-box;
+}
+
+.recap-time {
+    font-size: 0.85em;
+    color: var(--SmartThemeEmColor);
+    margin-bottom: 16px;
+}
+
+.recap-body {
+    line-height: 1.6;
+    color: var(--SmartThemeBodyColor);
+    max-height: 50vh;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+
+/* Use SillyTavern's message text styling */
+.recap-body .mes_text {
+    color: var(--SmartThemeBodyColor);
+}
+
+.recap-body em,
+.recap-body i {
+    color: var(--SmartThemeEmColor);
+}
+
+.recap-body q {
+    color: var(--SmartThemeQuoteColor);
+}
+
+.recap-body q:before,
+.recap-body q:after {
+    content: '';
+}
+
+.recap-body q i,
+.recap-body q em {
+    color: inherit;
+}
+
+.recap-body u {
+    color: var(--SmartThemeUnderlineColor);
+}
+
+.recap-body blockquote {
+    border-left: 3px solid var(--SmartThemeQuoteColor);
+    padding-left: 10px;
+    background-color: var(--black30a);
+    margin: 0;
+}
+
+.recap-body strong,
+.recap-body b,
+.recap-body h1,
+.recap-body h2 {
+    font-weight: bold;
+}
+
+.recap-close-button {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Placeholder / Loading State */
+.recap-placeholder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 120px;
+    gap: 12px;
+}
+
+.recap-spinner {
+    font-size: 2em;
+    color: var(--SmartThemeEmColor);
+    margin-bottom: 4px;
+}
+
+.recap-placeholder-text {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: var(--SmartThemeBodyColor);
+}
+
+.recap-placeholder-sub {
+    font-size: 0.85em;
+    color: var(--SmartThemeEmColor);
+    opacity: 0.7;
+}
+
+/* Mobile: wider text area, less padding */
+@media (max-width: 768px) {
+    .chat-recap-container {
+        padding: 12px 16px;
+    }
+    .recap-body {
+        max-height: 60vh;
+    }
+}
+
+/* Settings Panel */
+.chat-recap-settings {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 10px;
+}
+
+.chat-recap-setting-row {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.chat-recap-setting-row-inline {
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 16px;
+}
+
+.chat-recap-inline-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    flex: 1;
+}
+
+.chat-recap-setting-row label {
+    font-weight: bold;
+    color: var(--SmartThemeBodyColor);
+    text-align: center;
+}
+
+.chat-recap-setting-row textarea {
+    font-family: monospace;
+}
+
+.editor_maximize {
+    color: var(--SmartThemeEmColor);
+}
