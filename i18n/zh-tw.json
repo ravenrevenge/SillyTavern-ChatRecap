@@ -23,7 +23,7 @@
     "CR_Time_MonthsAgo": "{0} 個月前",
     "CR_Time_YearAgo": "{0} 年前",
     "CR_Time_YearsAgo": "{0} 年前",
-    "CR_Popup_Generating": "正在生成摘要...",
+    "CR_Popup_Generating": "正在生成摘要⋯",
     "CR_Popup_GeneratingSub": "視端點狀態而定，生成回顧可能需要一些時間",
     "CR_Warning_NoProfile": "請先在「聊天回顧（Chat Recap）」設定中選擇連線設定檔，才能生成回顧。",
     "CR_Warning_NoProfile_Title": "聊天回顧（Chat Recap）"
