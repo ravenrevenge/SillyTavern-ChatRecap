@@ -47,6 +47,8 @@ Below some screenshots with other themes and mobile
 
 ## Credits & Thanks
 
-- First of all THANK YOU to [SillyAnonymous](https://github.com/Sillyanonymous) for letting me nag them, annoy them and be my beta tester too. 
+- First of all THANK YOU to [SillyAnonymous](https://github.com/Sillyanonymous) for letting me nag them, annoy them and be my beta tester too.
+
+- Thanks to [Rivelle](https://github.com/RivelleDays) for the Chinese translation <3.
 
 - The idea for the recap comes from Smart Memory by [SenjinTheDragon](https://github.com/senjinthedragon)
