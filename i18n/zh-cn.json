@@ -1,5 +1,5 @@
 {
-    "CR_Settings_Title": "聊天回顾（Chat Recap）",
+    "CR_Settings_Title": "聊天回顾",
     "CR_Settings_ConnectionProfile": "连线设定档",
     "CR_Settings_DefaultConnection": "选择设定档⋯",
     "CR_Settings_TimeThreshold": "生成时间门槛（小时）",
@@ -25,6 +25,6 @@
     "CR_Time_YearsAgo": "{0} 年前",
     "CR_Popup_Generating": "正在生成回顾⋯",
     "CR_Popup_GeneratingSub": "视端点状态而定，生成回顾可能需要一些时间",
-    "CR_Warning_NoProfile": "请先在「聊天回顾（Chat Recap）」设定中选择连线设定档，才能生成回顾。",
-    "CR_Warning_NoProfile_Title": "聊天回顾（Chat Recap）"
+    "CR_Warning_NoProfile": "请先在「聊天回顾」扩充设定中选择连线设定档，才能生成回顾。",
+    "CR_Warning_NoProfile_Title": "聊天回顾"
 }
